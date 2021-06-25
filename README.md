@@ -3,9 +3,9 @@
   - A single-page application for fetching and tabulating (pricing, review, and general) information of video games currently on sale.
 
 <p float="left">
-  <img src="https://i.postimg.cc/7wbSmc26/digitalbargainbin-normal.png" alt="digitalbargainbin-normal.png" width="300"/>
-  <img src="https://i.postimg.cc/2mkQB3jn/digitalbargainbin-dark.png" alt="digitalbargainbin-dark.png" width="300"/>
-  <img src="https://i.postimg.cc/Ykd1NkjZ/digitalbargainbin-fulltable.png" alt="digitalbargainbin-fulltable.png" width="300"/>
+  <img src="https://i.postimg.cc/7wbSmc26/digitalbargainbin-normal.png" alt="digitalbargainbin-normal.png" width="200"/>
+  <img src="https://i.postimg.cc/2mkQB3jn/digitalbargainbin-dark.png" alt="digitalbargainbin-dark.png" width="200"/>
+  <img src="https://i.postimg.cc/Ykd1NkjZ/digitalbargainbin-fulltable.png" alt="digitalbargainbin-fulltable.png" width="200"/>
 </p>
   
 - [MyAnimeList Top 250 Stats](https://maltop250.pages.dev/)
