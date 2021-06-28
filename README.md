@@ -9,7 +9,7 @@
 </p>
 <hr />
   
-- [MyAnimeList Top 250 Stats](https://maltop250.pages.dev/)
+- [MyAnimeList Top 250 Stats](https://maltop250.vercel.app/)
   - A website for up-to-date statistics on the current Top 250 Anime TV shows and movies from MyAnimeList.
 
 <p float="left">
