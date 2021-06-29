@@ -13,7 +13,7 @@
   - A website for up-to-date statistics on the current Top 250 Anime TV shows and movies from MyAnimeList.
 
 <p float="left">
-  <img src="https://i.postimg.cc/54hTtvLd/maltop250-index.png" alt="maltop250-index.png" width="300"/>
+  <img src="https://i.postimg.cc/mLtxBMJh/screencapture-maltop250-vercel-app-2021-06-29-15-48-18.png" alt="maltop250-index.png" width="300"/>
 </p>
 <hr />
 
