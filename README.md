@@ -17,6 +17,11 @@
 </p>
 <hr />
 
+- [TSX Listing of ETFs](https://tsxetfdatatable.aquan8.repl.co/)
+  - A data table of Exchange Traded Funds (ETFs) listed on the Toronto Stock Exchange (TSX) with asset distribution information including asset classes, sectors, and geopgraphic locations. Created on the Replit online IDE. 
+
+<hr />
+
 - [Chinese Transcriber](https://chinese-transcriber-alexq0807.cloud.okteto.net/)
   - A language-learning application that transcribes Chinese (traditional and simplified) text into pinyin and jyutping
 
