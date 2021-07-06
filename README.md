@@ -18,7 +18,7 @@
 <hr />
 
 - [TSX Listing of ETFs](https://tsxetfdatatable.aquan8.repl.co/)
-  - A data table of Exchange Traded Funds (ETFs) listed on the Toronto Stock Exchange (TSX) with asset distribution information including asset classes, sectors, and geopgraphic locations. Created on the Replit online IDE. 
+  - A data table of Exchange Traded Funds (ETFs) listed on the Toronto Stock Exchange (TSX) with asset distribution information covering asset classes, sectors, and geographic regions. Created on the Replit online IDE. 
 
 <hr />
 
