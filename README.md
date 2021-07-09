@@ -20,6 +20,9 @@
 - [TSX Listing of ETFs](https://tsxetfdatatable.aquan8.repl.co/)
   - A data table of Exchange Traded Funds (ETFs) listed on the Toronto Stock Exchange (TSX) with asset distribution information covering asset classes, sectors, and geographic regions. Created on the Replit online IDE. 
 
+<p float="left">
+  <img src="https://i.postimg.cc/196c9Yj5/tsxetfdatatable.png" alt="tsxetfdatatable.png" width="200"/>
+</p>
 <hr />
 
 - [Chinese Transcriber](https://chinese-transcriber-alexq0807.cloud.okteto.net/)
