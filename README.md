@@ -25,7 +25,7 @@
 </p>
 <hr />
 
-- [Chinese Transcriber](https://chinese-transcriber-alexq0807.cloud.okteto.net/)
+- [Chinese Transcriber](https://chinese-transcriber.up.railway.app/)
   - A language-learning application that transcribes Chinese (traditional and simplified) text into pinyin and jyutping
 
 <p float="left">
