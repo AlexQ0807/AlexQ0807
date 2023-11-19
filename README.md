@@ -3,9 +3,8 @@
   - A single-page application for fetching and tabulating (pricing, review, and general) information of video games currently on sale.
 
 <p float="left">
-  <img src="https://i.postimg.cc/7wbSmc26/digitalbargainbin-normal.png" alt="digitalbargainbin-normal.png" width="200"/>
-  <img src="https://i.postimg.cc/2mkQB3jn/digitalbargainbin-dark.png" alt="digitalbargainbin-dark.png" width="200"/>
-  <img src="https://i.postimg.cc/Ykd1NkjZ/digitalbargainbin-fulltable.png" alt="digitalbargainbin-fulltable.png" width="200"/>
+  <img src="https://i.postimg.cc/wgHJH9y8/digital-bargain-bin-normal-screenshot.png" alt="digital-bargain-bin-normal-screenshot.png" width="200"/>
+  <img src="https://i.postimg.cc/6t0ZpFn7/digital-bargain-bin-dark-screenshot.png" alt="digital-bargain-bin-dark-screenshot.png" width="200"/>
 </p>
 <hr />
   
