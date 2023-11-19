@@ -1,5 +1,5 @@
 ## My Personal Projects:
-- [Digital Bargain Bin](https://digitalbargainbin.vercel.app/)
+- [Digital Bargain Bin](https://digital-bargain-bin.vercel.app/)
   - A single-page application for fetching and tabulating (pricing, review, and general) information of video games currently on sale.
 
 <p float="left">
