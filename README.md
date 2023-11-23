@@ -24,8 +24,8 @@
 </p>
 <hr />
 
-- [Chinese Transcriber](https://chinese-transcriber.up.railway.app/)
-  - A language-learning application that transcribes Chinese (traditional and simplified) text into pinyin and jyutping
+- [Chinese Transcriber](https://chinese-transcriber.vercel.app/)
+  - A language-learning application that transcribes Chinese (traditional and simplified) text into pinyin and jyutping, and includes translations
 
 <p float="left">
   <img src="https://i.postimg.cc/5bJXTRT1/chinesetranscriber.png" alt="chinesetranscriber.png" width="300"/>
