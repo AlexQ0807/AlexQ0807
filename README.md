@@ -27,7 +27,7 @@
   - A website dedicated to tracking and analyzing Yu-Gi-Oh! TRADING CARD GAME Archetypes
   - Made with:
     - Frontend: Angular, AG Grid, Bootstrap, EChart
-    - Backend: FastAPI, MongoDB
+    - Backend: FastAPI, MongoDB, Redis
 
 <p float="left">
   <img src="https://i.postimg.cc/NQ0L445Z/ygo-archetype-db-archetypes.png" alt="ygo-archetype-db-archetypes.png" width="500"/>
