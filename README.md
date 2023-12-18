@@ -1,13 +1,14 @@
 ## My Personal Projects:
-- [Digital Bargain Bin](https://digital-bargain-bin.vercel.app/)
-  - A application for fetching and tabulating the latest digital sale and review information of video games on the Playstation Store and Nintendo Eshop.
+
+- [MyAnimeList Top Stats](https://mal-top-stats.vercel.app/)
+  - An application that tracks and compiles a list of the highest rated and most popular Anime titles across a wide range of categories with insightful statistics 
   - Made with:
-    - Frontend: Vite React, Material UI, TanStack Table
-    - Backend: FastAPI, MySQL, Redis
+    - Frontend: Vite React, Chakra UI, EChart
+    - Backend: FastAPI, MongoDB
 
 <p float="left">
-  <img src="https://i.postimg.cc/wgHJH9y8/digital-bargain-bin-normal-screenshot.png" alt="digital-bargain-bin-normal-screenshot.png" width="400"/>
-  <img src="https://i.postimg.cc/6t0ZpFn7/digital-bargain-bin-dark-screenshot.png" alt="digital-bargain-bin-dark-screenshot.png" width="400"/>
+  <img src="https://i.imgur.com/AtGEN3f.jpg" alt="screencapture-mal-top-stats-vercel-app-statistics-by-year.png" width="400"/>
+  <img src="https://i.imgur.com/Nj6XWbV.jpg" alt="screencapture-mal-top-stats-vercel-app-statistics-by-year-dark.png" width="400"/>
 </p>
 <hr />
 
@@ -35,20 +36,17 @@
 </p>
 <hr />
 
-- [MyAnimeList Top Stats](https://mal-top-stats.vercel.app/)
-  - An application that tracks and compiles a list of the highest rated and most popular Anime titles across a wide range of categories with insightful statistics 
+- [Digital Bargain Bin](https://digital-bargain-bin.vercel.app/)
+  - A application for fetching and tabulating the latest digital sale and review information of video games on the Playstation Store and Nintendo Eshop.
   - Made with:
-    - Frontend: Vite React, Chakra UI, EChart
-    - Backend: FastAPI, MongoDB
+    - Frontend: Vite React, Material UI, TanStack Table
+    - Backend: FastAPI, MySQL, Redis
 
 <p float="left">
-  <img src="https://i.postimg.cc/FrDhQmSg/screencapture-mal-top-stats-vercel-app-statistics-by-year.png" alt="digital-bargain-bin-normal-screenshot.png" width="400"/>
-  <img src="https://i.postimg.cc/pPbrCWJp/screencapture-mal-top-stats-vercel-app-statistics-by-year-dark.png" alt="digital-bargain-bin-dark-screenshot.png" width="400"/>
+  <img src="https://i.postimg.cc/wgHJH9y8/digital-bargain-bin-normal-screenshot.png" alt="digital-bargain-bin-normal-screenshot.png" width="400"/>
+  <img src="https://i.postimg.cc/6t0ZpFn7/digital-bargain-bin-dark-screenshot.png" alt="digital-bargain-bin-dark-screenshot.png" width="400"/>
 </p>
 <hr />
-
-
-
 
 <!---
 AlexQ0807/AlexQ0807 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
