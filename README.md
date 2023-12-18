@@ -35,6 +35,18 @@
 </p>
 <hr />
 
+- [MyAnimeList Top Stats](https://mal-top-stats.vercel.app/)
+  - An application that tracks and compiles a list of the highest rated and most popular Anime titles across a wide range of categories with insightful statistics 
+  - Made with:
+    - Frontend: Vite React, Chakra UI, EChart
+    - Backend: FastAPI, MongoDB
+
+<p float="left">
+  <img src="https://i.postimg.cc/FrDhQmSg/screencapture-mal-top-stats-vercel-app-statistics-by-year.png" alt="digital-bargain-bin-normal-screenshot.png" width="400"/>
+  <img src="https://i.postimg.cc/pPbrCWJp/screencapture-mal-top-stats-vercel-app-statistics-by-year-dark.png" alt="digital-bargain-bin-dark-screenshot.png" width="400"/>
+</p>
+<hr />
+
 
 
 
